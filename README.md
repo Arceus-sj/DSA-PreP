@@ -11,3 +11,6 @@
 
 - [Best Time to Buy and Sell Stock 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) Leetcode (Medium)
 - [Sort Colors](https://leetcode.com/problems/sort-colors/) Leetcode (Medium)
+
+## Binary Search
+- [First and last occurrences of X](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x2041/1/) GFG (Easy)
