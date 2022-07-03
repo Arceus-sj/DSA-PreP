@@ -7,7 +7,7 @@
 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) Leetcode (Easy)
 - [Move Zeros](https://leetcode.com/problems/move-zeroes/) Leetcode (Easy)
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) Leetcode (Easy)
-
-
 - [Best Time to Buy and Sell Stock 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) Leetcode (Medium)
 - [Sort Colors](https://leetcode.com/problems/sort-colors/) Leetcode (Medium)
+- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) Leetcode (Medium)
+- [Maximum Subarray Sum](https://www.codingninjas.com/codestudio/problems/maximum-subarray-sum_630526?topList=striver-sde-sheet-problems&leftPanelTab=0) codestudio (Hard)
