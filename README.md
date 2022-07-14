@@ -7,6 +7,7 @@
 - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) Leetcode (Easy)
 - [Move Zeros](https://leetcode.com/problems/move-zeroes/) Leetcode (Easy)
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) Leetcode (Easy)
+-[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) Leetcode (Easy)
 - [Best Time to Buy and Sell Stock 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) Leetcode (Medium)
 - [Sort Colors](https://leetcode.com/problems/sort-colors/) Leetcode (Medium)
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) Leetcode (Medium)
@@ -14,5 +15,4 @@
 
 
 ## Binary Search
-- [First and last occurrences of X](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x2041/1/) GFG (Easy)
-
+- [First and Last Position of an Element In Sorted Array](https://www.codingninjas.com/codestudio/problems/first-and-last-position-of-an-element-in-sorted-array_1082549?leftPanelTab=0) codestudio (Easy)
