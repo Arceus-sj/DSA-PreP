@@ -16,3 +16,12 @@
 
 ## Binary Search
 - [First and Last Position of an Element In Sorted Array](https://www.codingninjas.com/codestudio/problems/first-and-last-position-of-an-element-in-sorted-array_1082549?leftPanelTab=0) codestudio (Easy)
+
+## Sorting Algorithm
+
+-[Selection Sort](https://www.codingninjas.com/codestudio/problems/selection-sort_981162) codestudio (Easy)
+-[Bubble Sort](https://www.codingninjas.com/codestudio/problems/bubble-sort_980524) codestudio (Easy)
+
+## Recursion
+
+- [Factorial of a Number](https://www.codingninjas.com/codestudio/problems/factorial-of-a-number_1115779?leftPanelTab=0) codestudio (Easy)
