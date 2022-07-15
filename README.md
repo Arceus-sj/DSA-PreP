@@ -19,8 +19,8 @@
 
 ## Sorting Algorithm
 
--[Selection Sort](https://www.codingninjas.com/codestudio/problems/selection-sort_981162) codestudio (Easy)
--[Bubble Sort](https://www.codingninjas.com/codestudio/problems/bubble-sort_980524) codestudio (Easy)
+- [Selection Sort](https://www.codingninjas.com/codestudio/problems/selection-sort_981162) codestudio (Easy)
+- [Bubble Sort](https://www.codingninjas.com/codestudio/problems/bubble-sort_980524) codestudio (Easy)
 
 ## Recursion
 
