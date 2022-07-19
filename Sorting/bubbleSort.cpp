@@ -4,6 +4,10 @@
 using namespace std;
 
 void bubbleSort(int *a, int n) {
+    
+//     i = 0; i < n; i++
+//         j = 0; j < n - i - 1; j++;
+    
     for(int i = 1; i < n; i++) {
        
        for(int j = 0; j < n - i; j++) {
