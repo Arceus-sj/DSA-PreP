@@ -6,7 +6,7 @@ using namespace std;
 void insertionSort(vector<int>& a) {
 	int n = a.size();
 
-	cout << "SORTING START ..." << "\n";
+	// cout << "SORTING START ..." << "\n";
 	for(int i = 1; i < n; i++) {
 		int j = i - 1;
 		int temp = a[i];
@@ -24,7 +24,7 @@ void insertionSort(vector<int>& a) {
 		a[j+1] = temp;
 	}
 
-	cout << "SORTING END ..." << "\n";
+	// cout << "SORTING END ..." << "\n";
 
 	for(auto x:a) {
 		cout << x << " ";
