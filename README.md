@@ -12,6 +12,7 @@
 - [Sort Colors](https://leetcode.com/problems/sort-colors/) Leetcode (Medium)
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) Leetcode (Medium)
 - [Count Primes](https://leetcode.com/problems/count-primes/) Leetcode Math (Medium)
+- [Next Greater Element](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1) GFG (Medium)
 - [Maximum Subarray Sum](https://www.codingninjas.com/codestudio/problems/maximum-subarray-sum_630526?topList=striver-sde-sheet-problems&leftPanelTab=0) codestudio (Hard)
 
 
