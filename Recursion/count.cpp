@@ -6,13 +6,12 @@ void print(int n) {
     // base case 
     if (n == 0)
         return ;
-    
+
 
     cout << n << "\n";
 
-    print(n - 1);
-
     
+    print(n - 1);
 }
 
 int main() {
