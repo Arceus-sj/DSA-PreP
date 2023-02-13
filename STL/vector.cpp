@@ -28,7 +28,7 @@ int main() {
 
 	// coping one vector to another:
 
-	vector<int> a(5,1);
+	vector<int> a = {1,2,3,4,5};
 
 	for(auto i:a)
 		cout << i << " ";
@@ -36,14 +36,18 @@ int main() {
 
 	vector<int> b(a);
 
-for(auto i:b)
+	for(auto i:b)
 		cout << i << " ";
 	cout << "\n";	
 
 
 
-	
+	// vector erase
+	a.erase(a.begin() + 1, a.begin()+3);
 
+	for(auto i:a)
+		cout << i << " ";
+	cout << "\n";
 
 	return 0;
 }
