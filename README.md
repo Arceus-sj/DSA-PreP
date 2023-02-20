@@ -32,3 +32,4 @@
 ## Recursion
 
 - [Factorial of a Number](https://www.codingninjas.com/codestudio/problems/factorial-of-a-number_1115779?leftPanelTab=0) codestudio (Easy)
+- [Card Constructions](https://codeforces.com/problemset/problem/1345/B) codeforces
